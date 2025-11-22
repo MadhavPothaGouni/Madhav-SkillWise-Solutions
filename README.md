@@ -15,12 +15,13 @@ This repo contains both frontend (React) and backend (Node.js + Express + SQLite
 
 ## Live Demo Links
 
-- **Frontend (Vercel)**  
-  https://frontend-inventory-lpxo.vercel.app
-
 - **Backend (Render)**  
   https://backendinventory-3.onrender.com  
   Health check response: `Backend is running...`
+  
+- **Frontend (Vercel)**  
+  https://frontend-inventory-lpxo.vercel.app
+
 
 The frontend is configured to talk to the backend via:
 
